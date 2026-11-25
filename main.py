@@ -1,15 +1,16 @@
-"""Angry Judge: The Short Rant Contest — entry for make.fun bounty
+"""Angry Judge: The Short Rant Contest — make.fun bounty entry
 u-riidzhsn-angry-judge-the-short-rant-contest-b9f46046.
 
-Writes one short funny rant (at most 400 characters) about a small
-everyday annoyance to /output/entry.txt. The target: the office printer,
-which has exactly one job and has chosen violence instead — jamming on
-page one, lying about cyan, and printing at 3 AM in the wrong building
-like a ghost with a grudge and a paper tray.
+Emits one short funny rant (no more than 400 characters) about a small
+everyday annoyance to /output/entry.txt. The target is the office
+printer, which has a single job and has opted for violence instead —
+jamming on page one, lying about cyan, and printing at 3 AM in the
+wrong building, like a ghost with a grudge and a paper tray.
 """
 
 import os
 
+# Joke: a printer with exactly one job that chose violence instead.
 LINE = (
     "The office printer has exactly one job and it has chosen violence "
     "instead: it jams on page one, claims it is out of cyan when I only "
